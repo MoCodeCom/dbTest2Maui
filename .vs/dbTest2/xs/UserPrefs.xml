@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0B5031CF-69AD-4157-9658-5EC16859FC6F}|Default">
+  <MonoDevelop.Ide.ItemProperties.dbTest2 PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="dbTest2/ModelView/databaseContext.cs">
+    <Files>
+      <File FileName="dbTest2/Model/userModel.cs" />
+      <File FileName="dbTest2/ModelView/databaseContext.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dbTest2" expanded="True">
+            <Node name="dbTest2" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="ModelView" expanded="True">
+                <Node name="databaseContext.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+</Properties>
